@@ -129,6 +129,7 @@ export default function Home() {
             Made with <Heart className="w-4 h-4 fill-red-400 text-red-400" /> for Open Source
           </div>
           <p>© {new Date().getFullYear()} Love Letters to Open Source.</p>
+          <p>Made by <a href="https://github.com/ayussheth" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">@ayussheth</a></p>
         </div>
       </footer>
     </div>

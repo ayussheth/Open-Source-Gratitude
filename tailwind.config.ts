@@ -83,8 +83,9 @@ export default {
         },
       },
       fontFamily: {
-        sans: ["var(--font-sans)"],
-        serif: ["var(--font-serif)"],
+        serif: ["'Playfair Display'", "serif"],
+        sans: ["'DM Sans'", "sans-serif"],
+        handwriting: ["'Architects Daughter'", "cursive"],
         mono: ["var(--font-mono)"],
       },
       keyframes: {
